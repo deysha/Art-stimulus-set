@@ -12,8 +12,8 @@ To request access, visit the Zenodo page and click "Request Access."
 
 ## Contents
 
-- `metadata/` — Annotation files and codebook describing the artwork variables
-- `permissions/` — Copyright permission documents from MAVI-UC
+- `metadata/` : Annotation files and codebook describing the artwork variables
+- `permissions/` : Copyright permission documents from MAVI-UC
 
 ## License
 
