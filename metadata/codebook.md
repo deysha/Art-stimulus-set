@@ -1,6 +1,6 @@
 # Codebook
 
-## i. Columns in ArtworksMAVIUC.ods
+# i. Columns in ArtworksMAVIUC.ods
 
 | Column | Description |
 |--------|-------------|
@@ -15,7 +15,7 @@
 | Dimensiones_cm | Physical dimensions in centimeters |
 | Notas | Collection name (3 collections) |
 
-## ii. Columns in ArtworkSet_Curated.xlsx
+# ii. Columns in ArtworkSet_Curated.xlsx
 
 | Column | Description |
 |--------|-------------|
