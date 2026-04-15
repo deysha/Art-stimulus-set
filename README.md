@@ -8,7 +8,7 @@ The stimulus image files are hosted on Zenodo with restricted access:
 
 **DOI:** [10.5281/zenodo.19560124](https://doi.org/10.5281/zenodo.19560124)
 
-To request access, visit the Zenodo page and click "Request Access."
+Request access there.
 
 ## Contents
 
@@ -17,7 +17,7 @@ To request access, visit the Zenodo page and click "Request Access."
 
 ## License
 
-- Code and metadata: MIT License
+- Metadata: MIT License
 - Artwork images: Restricted use under MAVI-UC permission (see Zenodo record)
 
 ## Citation
